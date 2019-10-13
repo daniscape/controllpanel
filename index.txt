@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+<!--
+	Big Picture by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>International Gaming</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.poptrox.min.js"></script>
+		<script src="js/jquery.scrolly.min.js"></script>
+		<script src="js/jquery.scrollgress.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
+			<link rel="stylesheet" href="css/style-normal.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+
+				<!-- Logo -->
+					<h1 id="logo">International Gaming</h1>
+				
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="http://intgaming.net/forums">Forums</a></li>
+							<li><a href="http://ucp.International Gaming">User Cp</a></li>
+							<li><a href="https://radio.International Gaming:8001/">Radio</a></li>
+							<li><a href="http://ucp.International Gaming/dev/changelog.php">Development</a></li>
+						</ul>
+					</nav>
+
+			</header>
+			
+		<!-- Intro -->
+			<section id="intro" class="main style1 dark fullscreen">
+				<div class="content container 75%">
+					<header>
+						<h2>International Gaming!</h2>
+					</header>
+					<p><strong>International Gaming</strong> is a community that runs a series of gaming servers and is mainly focused on SA:MP. </a></p>
+					
+					<footer>
+						<a href="#one" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
+		
+		<!-- One -->
+			<section id="one" class="main style2 left dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2>International Gaming</h2>
+					</header>
+					<p>International Gaming is a Medium-Roleplay server. The server is hosted on a well protected host with DDoS protection. Our staff team thrive in giving out the best customer care to fit your needs and wants whilst playing at our server. Our script is unique and has much to offer.
+					             To check out our SA:MP Server now add us to your favourites "<strong>samp.intgaming.net</strong>." </p>
+				</div>
+				<a href="#two" class="button style2 down anchored">Next</a>
+			</section>
+		
+		 <!--two -->
+<section id="two" class="main style2 right dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2>Teamspeak 3 Client</h2>
+					</header>
+                    <p>We also have a Teamspeak 3 Client that you can join to speak with other players or admins directly. Join us at "<strong>ts.intgaming.net</strong>." <p>
+</p>
+
+</div>
+				<a href="#three" class="button style2 down anchored">Next</a>
+			</section>
+			
+       <!-- three -->
+			<section id="three" class="main style2 left dark fullscreen">
+				<div class="content box style2">
+					<header>
+					<h2>About Us</h2>
+					</header>
+					<p>International Gaming is a community based around mainly San Andreas Multiplayer. The community was founded by Jay Artz in 2018. The community's goal was to bring all of you the best gaming experince with our great customer service, High quality server speeds and Unique script. We are working everyday to make the server a better gaming experience. Our server runs on secured DDoS protected servers, which helps make the experience for you, better. In 2014, Ged took over the gaming community from Jay Artz. The Administration still has the same goals which are to, make the game enjoyable, and provide the best support to our players.
+					</p>
+		
+		      </div>
+			</section>			
+		
+					
+		<!-- Footer -->
+			<footer id="footer">
+
+				<!-- Icons -->
+					<ul class="actions">
+						<li><a href="https://www.facebook.com/pages/Maximum-Gaming/281717451850578?fref=ts" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.facebook.com/pages/Maximum-Gaming/281717451850578?fref=ts" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					</ul>
+
+				<!-- Menu -->
+					<ul class="menu">
+						<li>&copy; International Gaming 2018</a></li>
+					</ul>
+			
+			</footer>
+
+	</body>
+</html>
